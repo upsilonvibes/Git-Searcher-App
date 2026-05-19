@@ -34,22 +34,22 @@ To get a local development instance of this app running on your machine, follow 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/upsilonvibes/Git-Searcher-App.git](https://github.com/upsilonvibes/Git-Searcher-App.git)
+   git clone https://github.com/upsilonvibes/Git-Searcher-App.git
+    ```
 
 2. **Navigate to the project directory:**
-
-  ```Bash
-cd Git-Searcher-App
-
+    ```bash
+    cd Git-Searcher-App
+    ```
 3. **Install the dependencies:**
 
-   ```Bash
-npm install
-
+   ```bash
+   npm install
+   ```
 4. **Boot up the local development server:**
 
-   ```Bash
-npm run dev
-
+   ```bash
+   npm run dev
+   ```
 
 5. Open your local browser and point it to `http://localhost:5173` to test the application!
